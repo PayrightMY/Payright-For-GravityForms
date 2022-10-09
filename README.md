@@ -13,7 +13,7 @@ There 2 ways to Install this plugin:
 
 * Login to WordPress Dashboard
 * Navigate to Plugins >> Add New
-* Search "Payright For GravityForms"
+* Search "Payright For Gravity Forms"
 * Click Install >> Activate
 
 ## Manual Installation
@@ -30,7 +30,7 @@ There 2 ways to Install this plugin:
 
 * Login to WordPress Dashboard
 * Navigate to Form
-* Create a new form Forms > New Frorm
+* Create a new form Forms > New Form
 * Click Forms -> your-new-form
 * Click Settings -> Payright
 * Click Add New

@@ -56,7 +56,7 @@ Make sure that you already have Gravity Forms plugin installed and activated.
 **Step 3:**
 
 - Navigate to Form
-- Create a new form Forms > New Frorm
+- Create a new form Forms > New Form
 - Click Forms -> your-new-form
 - Click Settings -> Payright
 - Click Add New
