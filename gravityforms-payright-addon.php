@@ -1,8 +1,8 @@
 <?php
 /*
-Plugin Name: Gravity Forms Payright Addon
+Plugin Name: Payright For Gravity Forms
 Author URI:  https://payright.my
-Description: A Payright Payment Addon for Gravity Forms
+Description: Integrate your Gravity Forms site with Payright Payment Gateway.
 Version:     1.0.0
 Author:      Payright
 Text Domain: gf-payright-addon
